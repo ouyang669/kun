@@ -140,9 +140,7 @@ Card, we may use the public security provided two elements (name + ID card numbe
 
 The interface of the bank. Therefore, we realize that centralized trust institutions such as banks and public security organs are irreplaceable to some extent
 
-The emergence of blockchain technology is not to subvert such a trust mechanism, but to supplement such a mechanism with a more secure and efficient solution
-
-Case.
+The emergence of blockchain technology is not to subvert such a trust mechanism, but to supplement such a mechanism with a more secure and efficient solution Case.
 
 
 ### Kun data stored procedure
