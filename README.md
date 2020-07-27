@@ -2,7 +2,6 @@
 
 The underlying architecture of Kun will provide a complete DAPP framework system and blockchain system
 
-![img-1](https://github.com/amcge/kun/master/img/img-1.png)
 
 ### DAPP framework system:
 
@@ -12,7 +11,7 @@ People are familiar with the underlying technology of blockchain. In addition, t
 
 And value cross-border circulation provides a platform to further support the realization of various upper level applications.
 
-### Blockchain system:
+### Blockchain system
 
 It includes pure asset technology, intelligent contract system, security system, storage system and cross chain system. Meanwhile, it also analyzes the underlying complex technology system and heterogeneous technology system
 
@@ -22,8 +21,6 @@ Cross chain and cross system interactive mapping between quasi heterogeneous blo
 
 Management, encryption data analysis and other technical systems.  
 
-![img-2](https://github.com/amcge/kun/master/img/img-2.png)
-
 ### Cross chain technology
 
 Cross chain communication protocol is the core protocol of Kun, which plays an important role in communication bridge and completes the important mission of cross chain technology upgrading
@@ -32,7 +29,6 @@ With the support of large cross chain contracts, Kun can make continuous efforts
 
 A complete Internet system.
 
-![img-3](https://github.com/amcge/kun/master/img/img-3.png)  
 
 ### K communication protocol
 
@@ -72,7 +68,6 @@ Move transfer, at the same time to ensure the safety of funds; no need to collec
 
 We should enhance the value liquidity, enlarge the capital leverage, and earn considerable interest margin income.  
 
-![img-4](https://github.com/amcge/kun/master/img/img-4.png)
 
 # Gravitational mapping
 
@@ -130,7 +125,6 @@ No obstruction. Behind the digital identity are the ownership of assets, persona
 
 It also needs strong trust.
 
-![img-5](https://github.com/amcge/kun/master/img/img-5.png)  
 
 ### Kun data link up
 
@@ -148,9 +142,8 @@ The interface of the bank. Therefore, we realize that centralized trust institut
 
 The emergence of blockchain technology is not to subvert such a trust mechanism, but to supplement such a mechanism with a more secure and efficient solution
 
-Case:
+Case.
 
-![img-6](https://github.com/amcge/kun/master/img/img-6.png)  
 
 ### Kun data stored procedure
 
