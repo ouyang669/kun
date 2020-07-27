@@ -2,7 +2,7 @@
 
 The underlying architecture of Kun will provide a complete DAPP framework system and blockchain system
 
-![img-1](img/img-1.jpg)
+![img-1](img/img-1.png)
 
 ### DAPP framework system:
 
@@ -22,7 +22,7 @@ Cross chain and cross system interactive mapping between quasi heterogeneous blo
 
 Management, encryption data analysis and other technical systems.  
 
-![img-2](img/img-2.jpg)
+![img-2](img/img-2.png)
 
 ### Cross chain technology
 
@@ -32,7 +32,7 @@ With the support of large cross chain contracts, Kun can make continuous efforts
 
 A complete Internet system.
 
-![img-3](img/img-3.jpg)  
+![img-3](img/img-3.png)  
 
 ### K communication protocol
 
@@ -72,7 +72,7 @@ Move transfer, at the same time to ensure the safety of funds; no need to collec
 
 We should enhance the value liquidity, enlarge the capital leverage, and earn considerable interest margin income.  
 
-![img-4](img/img-4.jpg)
+![img-4](img/img-4.png)
 
 # Gravitational mapping
 
@@ -130,7 +130,7 @@ No obstruction. Behind the digital identity are the ownership of assets, persona
 
 It also needs strong trust.
 
-![img-5](img/img-5.jpg)  
+![img-5](img/img-5.png)  
 
 ### Kun data link up
 
@@ -150,7 +150,7 @@ The emergence of blockchain technology is not to subvert such a trust mechanism,
 
 Case:
 
-![img-6](img/img-6.jpg)  
+![img-6](img/img-6.png)  
 
 ### Kun data stored procedure
 
